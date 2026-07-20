@@ -87,11 +87,10 @@ Liquidity Guardrails: Monitoring dynamic MTD and MoM changes enables financial d
 
 Screenshots
 
-   ![Dashboard Preview](https://github.com/gopikantachary1-hub/Trading-Analysis-Dashboard/blob/main/12.07.2026_14.22.45_REC.png)
+   ![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Details.png)
 
-![Dashboard Preview](https://github.com/gopikantachary1-hub/Trading-Analysis-Dashboard/blob/main/12.07.2026_14.23.08_REC.png)
+![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Overview.png)
 
-![Dashboard Preview](https://github.com/gopikantachary1-hub/Trading-Analysis-Dashboard/blob/main/12.07.2026_14.23.22_REC.png)
-
+![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Summary.png)
 
 
