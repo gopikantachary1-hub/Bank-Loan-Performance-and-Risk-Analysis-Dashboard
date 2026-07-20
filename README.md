@@ -81,3 +81,15 @@ Product Optimization: Recognizing that Debt Consolidation represents the primary
 
 Liquidity Guardrails: Monitoring dynamic MTD and MoM changes enables financial desks to prepare operational cash reserves efficiently to buffer high December spikes.
 
+
+
+
+Screenshots
+
+   ![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Summary.png)
+
+![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Overview.png)
+
+![Dashboard Preview](https://github.com/gopikantachary1-hub/Bank-Loan-Performance-and-Risk-Analysis-Dashboard/blob/main/Details.png)
+
+
